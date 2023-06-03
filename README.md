@@ -1,13 +1,13 @@
 # aicup-2023-nlp
 
 ## Environment
-python 3.9.12
-torch 2.0.0
-transformers 4.29.1
-rank-bm25 0.2.2
-ckip-transformers 0.3.4
-wikipedia 1.4.0
-hanlp 2.1.0b49
+python 3.9.12 \
+torch 2.0.0 \
+transformers 4.29.1 \
+rank-bm25 0.2.2 \
+ckip-transformers 0.3.4 \
+wikipedia 1.4.0 \
+hanlp 2.1.0b49 
 
 ## Dataset
 從google drive id=1T6jpOtdf_i6XNYA6F_lqU4mRRh1xYPcl下載資料，GitHub放不下
